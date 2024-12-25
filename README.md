@@ -4,9 +4,11 @@
 
 A simple trivia game to learn how to call APIs in NextJS. Shoutout to Open Trivia DB for the API.
 
-![image](https://github.com/user-attachments/assets/52309edb-4e0d-4aa5-b1d6-40e0f1cb1825)
+![image](https://github.com/user-attachments/assets/46ed2488-a1a7-493d-8d95-eb5a1b869365)
 
-![image](https://github.com/user-attachments/assets/34b86637-022b-4677-88a2-3434bda16ac7)
+
+![image](https://github.com/user-attachments/assets/0c36e01e-e2a9-4942-98b2-d6528be4aa85)
+
 
 
 ## How2Use
