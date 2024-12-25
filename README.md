@@ -11,6 +11,7 @@ A simple trivia game to learn how to call APIs in NextJS. Shoutout to Open Trivi
 
 
 Try it out!
+
 https://trivy-smoky.vercel.app/
 
 ## 📝 How2Use
