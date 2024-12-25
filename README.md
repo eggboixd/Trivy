@@ -1,6 +1,6 @@
 
 
-# Trivy
+# ❓Trivy❓
 
 A simple trivia game to learn how to call APIs in NextJS. Shoutout to Open Trivia DB for the API.
 
@@ -11,7 +11,7 @@ A simple trivia game to learn how to call APIs in NextJS. Shoutout to Open Trivi
 
 
 
-## How2Use
+## 📝 How2Use
 
 First, clone the repository
 ```
@@ -34,7 +34,7 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
-# Credits
+# 🙌 Credits
 API used: https://opentdb.com/api_config.php
 
 This guy from youtube for the idea: https://www.youtube.com/watch?v=tXW1PmbtmHE
