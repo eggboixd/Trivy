@@ -46,10 +46,10 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 ---
 ## ✍️ To-Do
 
-> Connect to database
-> Create Register/Login Feature
-> Save user score & progress
-> Create leaderboard
+- Connect to database
+- Create Register/Login Feature
+- Save user score & progress
+- Create leaderboard
 
 ---
 
