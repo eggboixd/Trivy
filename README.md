@@ -44,6 +44,14 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 ![Mobile Preview](https://github.com/user-attachments/assets/cd8d939a-db75-4bb4-9d96-eb15c861e2c0)
 
 ---
+## ✍️ To-Do
+
+> Connect to database
+> Create Register/Login Feature
+> Save user score & progress
+> Create leaderboard
+
+---
 
 ## 🙌 Credits
 
